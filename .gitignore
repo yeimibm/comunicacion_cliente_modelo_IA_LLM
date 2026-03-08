@@ -1,0 +1,40 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Caché
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
+
+# Distribuciones
+dist/
+build/
+*.egg-info/
+
+# OpenAI
+.openai_api_key

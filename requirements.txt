@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+anthropic
+langchain
+langchain-anthropic
+python-dotenv
+numpy>=2.0
